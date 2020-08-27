@@ -7,7 +7,7 @@ Studied game design. Worked with frontend and social media. Worked with UX. Doin
 [https://jesperbylund.com/now](What I'm doing /now)
 
 ## Contact me
-[https://jesperbylund.com](personal site)
+(https://jesperbylund.com)[personal site]
 [https://twitter.com/jesperbylund](@jesperbylund)
 
 <!--
