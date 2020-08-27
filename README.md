@@ -4,11 +4,12 @@ I write Javascript and craft nice experiences. Always for the end user.
 Studied game design. Worked with frontend and social media. Worked with UX. Doing a little bit of everything.
 
 ## Doing
-[https://jesperbylund.com/now](What I'm doing /now)
+[What I'm doing /now](https://jesperbylund.com/now)
 
 ## Contact me
-(https://jesperbylund.com)[personal site]
-[https://twitter.com/jesperbylund](@jesperbylund)
+[personal site](https://jesperbylund.com) 
+
+[@jesperbylund](https://twitter.com/jesperbylund)
 
 <!--
 **jesper-bylund/jesper-bylund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
