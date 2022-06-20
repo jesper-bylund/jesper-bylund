@@ -1,7 +1,5 @@
 # Jesper Bylund
-I write Javascript and craft nice experiences. Always for the end user.
-
-Studied game design. Worked with frontend and social media. Worked with UX. Doing a little bit of everything.
+I design tools that help us think and create. Making things on the internet since 96. I publish as I learn, so please help me spot the errors.
 
 ## Doing
 [What I'm doing /now](https://jesperbylund.com/now)
